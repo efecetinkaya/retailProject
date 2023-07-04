@@ -24,6 +24,7 @@ public  class Gold extends Customer{
 		points += (transactionPromotion*tr_pointsRate);
 	}
 	
+	int a = 5;
 	
 	
 	
