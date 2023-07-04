@@ -11,8 +11,8 @@ public class test {
 		
        Transaction.addBasket(p);		
 		
-		
-		
+		int b = 6;
+		System.out.println(b);
 		
 		
 		
